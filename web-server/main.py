@@ -44,7 +44,6 @@ def get_home():
                         100% { transform: translateX(0) rotate(0); }
                     }
                 </style>
-                <link rel="icon" type="image/png" sizes="16x16" href="favicon.ico">
                 <link rel="preconnect" href="https://fonts.googleapis.com">
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
                 <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
